@@ -1,0 +1,36 @@
+/*common start*/
+body{
+	margin: 0;
+	padding: 0;
+}
+/*common end*/
+/*header start*/
+.comntainer{
+	width: 90%;
+	border: 1px solid red;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.logo
+{
+	width: 10%;
+	border: 1px solid red;
+}
+.manu{
+	width: 45%;
+	border: 1px solid red;
+	float: right;
+}
+.manu ul{
+	float: right;
+}
+.manu li{
+	list-style: none;
+	float: left;
+}
+.manu ul li a{
+	text-decoration: none;
+	margin: 0px 20px;
+	display: inline-block;
+}
+/*header*/
